@@ -1,5 +1,5 @@
 # AB Testing
-[AB Testing](https://www.shoutitout.com.au/wp-content/uploads/2019/02/google-ads-split-testing-1568x1045.jpg)
+(https://www.shoutitout.com.au/wp-content/uploads/2019/02/google-ads-split-testing-1568x1045.jpg)
 
 # Business Problem 🎯
 Facebook recently introduced a new type of offer that is an alternative to the current type of bidding called maximum bidding he introduced average bidding. One of our clients decided to test this new feature, and averagebidding, he wants to do an A/B test to see if it brings more conversions than maximumbidding.
