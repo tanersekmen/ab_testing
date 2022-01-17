@@ -1,4 +1,4 @@
 # AB Testing
-[https://avatars.mds.yandex.net/i?id=a0f1e1f892a9dbef670cbf704c2e49f8-4074279-images-thumbs&n=13]
+[https://www.shoutitout.com.au/wp-content/uploads/2019/02/google-ads-split-testing-1568x1045.jpg]
 
 
