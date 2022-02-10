@@ -13,5 +13,5 @@ ab_testing.xlsx
 * Impression: The number of views to ads
 * Click: The number of clicks on ads
 * Purchase: The number of product that bought after clicking ads
-* Earning: The amounf of profit obtained as a result of the produces soldd
+* Earning: The amounf of profit obtained as a result of the produces sold
 
